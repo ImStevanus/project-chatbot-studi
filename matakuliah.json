@@ -1,0 +1,128 @@
+{
+    "Teknik Informatika": [
+        "programmer","coding", "komputer", "logika", "algoritma", "software", "teknologi", "game", "aplikasi"
+    ],
+    "Artificial Intelligence": [
+        "AI","programer","coding", "komputer", "logika", "algoritma", "software", "teknologi", "game", "aplikasi","otomatis","canggih","navigasi","robot"
+    ],
+    "Sistem Informasi": [
+        "bisnis", "komputer", "manajemen", "database", "analisis", "teknologi", "kantor"
+    ],
+    "Teknik Sipil": [
+        "bangunan", "gedung", "jembatan", "konstruksi", "fisika", "proyek", "lapangan"
+    ],
+    "Teknik Mesin": [
+        "mesin", "motor", "mobil", "fisika", "mekanik", "alat", "industri"
+    ],
+    "Teknik Elektro": [
+        "listrik", "elektronik", "robot", "energi", "fisika", "kabel", "arus"
+    ],
+    "Arsitektur": [
+        "desain", "gambar", "bangunan", "seni", "ruangan", "maket", "estetika"
+    ],
+    "Kedokteran Umum": [
+        "dokter", "bedah", "rumah sakit", "kesehatan", "pasien"
+    ],
+    "Farmasi": [
+        "obat", "kimia", "kesehatan", "laboratorium", "racikan", "apotek", "penelitian"
+    ],
+    "Ilmu Gizi": [
+        "makanan", "diet", "kesehatan", "kalori", "biologi", "masak", "nutrisi","kuliner"
+    ],
+    "Psikologi": [
+        "mental", "curhat", "manusia", "perilaku", "sosial", "kepribadian", "konseling"
+    ],
+    "Hukum": [
+        "pasal", "undang-undang", "pengacara", "debat", "keadilan", "membaca", "hafal"
+    ],
+    "Manajemen": [
+        "bisnis", "uang", "pemimpin", "organisasi", "ekonomi", "marketing", "boss"
+    ],
+    "Akuntansi": [
+        "uang", "hitungan", "laporan", "teliti", "ekonomi", "buku", "neraca"
+    ],
+    "Ilmu Komunikasi": [
+        "ngobrol","ngomong","berbicara","bicara","komunikasi","presentasi", "public speaking", "media", "sosial", "berita", "jurnalistik", "kreatif"
+    ],
+    "Hubungan Internasional": [
+        "politik", "dunia", "bahasa asing", "diplomat", "negara", "sejarah", "berita"
+    ],
+    "Desain Komunikasi Visual": [
+        "menggambar", "desain", "logo", "kreatif", "warna", "visual", "foto", "ilustrasi","edit","gambar","ngedit"
+    ],
+    "Sastra Inggris": [
+        "bahasa", "inggris", "novel", "menulis", "budaya", "terjemahan", "bule"
+    ],
+    "Pariwisata & Perhotelan": [
+        "jalan-jalan", "hotel", "liburan", "service", "bahasa", "budaya", "tour","luar negeri","rapihin"
+    ],
+    "Agroteknologi (Pertanian)": [
+        "tanaman", "sawah", "biologi", "alam", "kebun", "pangan", "lingkungan"
+    ],
+    "Statistika": [
+        "angka", "data", "grafik", "matematika", "analisis", "survei", "prediksi"
+    ],
+    "Teknik Industri": [
+        "pabrik", "efisiensi", "manajemen", "sistem", "optimasi", "proses", "logistik"
+    ],
+    "Teknik Kimia": [
+        "kimia", "pabrik", "energi", "reaksi", "minyak", "sabun", "industri"
+    ],
+    "Teknik Lingkungan": [
+        "sampah", "air", "polusi", "daur ulang", "hijau", "bumi", "limbah"
+    ],
+    "Teknik Pertambangan": [
+        "tambang", "emas", "batubara", "tanah", "lapangan", "mineral", "eksplorasi"
+    ],
+    "Kedokteran Gigi": [
+        "dokter","gigi", "mulut", "kesehatan", "estetika", "klinik"
+    ],
+    "Keperawatan": [
+        "merawat", "pasien", "suntik", "rumah sakit", "medis", "kesehatan"
+    ],
+    "Kesehatan Masyarakat": [
+        "kesehatan","penyuluhan", "wabah", "masyarakat", "pencegahan", "data", "survei"
+    ],
+    "Pendidikan Guru SD (PGSD)": [
+        "anak-anak", "mengajar", "guru", "sekolah", "sabar", "mendidik"
+    ],
+    "Pendidikan Bahasa Inggris": [
+        "mengajar", "guru", "bahasa", "inggris", "grammar", "sekolah"
+    ],
+    "Sastra Jepang": [
+        "jepang", "anime", "manga", "bahasa", "budaya", "terjemahan"
+    ],
+    "Sastra Korea": [
+        "korea", "kpop", "drama", "bahasa", "budaya", "tulisan"
+    ],
+    "Seni Musik": [
+        "musik", "lagu", "nada", "instrumen", "konser", "biola", "gitar"
+    ],
+    "Administrasi Publik / Negara": [
+        "pemerintah", "birokrasi", "rakyat", "pelayanan", "kebijakan", "kantor"
+    ],
+    "Ilmu Politik": [
+        "partai", "pemilu", "kekuasaan", "debat", "pemerintah", "kampanye"
+    ],
+    "Sosiologi": [
+        "masyarakat", "konflik", "interaksi", "budaya", "kelompok", "pengamatan"
+    ],
+    "Kriminologi": [
+        "kejahatan", "polisi", "investigasi", "hukum", "kasus", "detektif"
+    ],
+    "Kehutanan": [
+        "hutan", "kayu", "alam", "konservasi", "gunung", "satwa"
+    ],
+    "Ilmu Kelautan & Perikanan": [
+        "laut", "ikan", "nelayan", "terumbu karang", "air", "selam"
+    ],
+    "Filsafat": [
+        "berpikir", "logika", "kritis", "pertanyaan", "ide", "membaca"
+    ],
+    "Perpustakaan": [
+        "buku", "arsip", "membaca", "data", "informasi", "koleksi"
+    ],
+    "Bisnis Digital": [
+        "digital", "bisnis", "marketing", "data", "informasi", "keuangan", "perusahaan","sukses"
+    ]
+}
