@@ -10,7 +10,7 @@ Ini adalah proyek chatbot cerdas yang dibuat dengan Python & Streamlit. Bot ini 
 * **Penanganan Negasi:** Bot mengerti jika pengguna mengetik kata negatif (contoh: "gak mau jadi dokter" atau "bukan teknik") dan akan menghindari rekomendasi tersebut.
 
 ## 📸 Tampilan Aplikasi
-![Tampilan Chatbot]([Gambar](https://github.com/ImStevanus/project-chatbot-studi/blob/main/Screenshot%202025-11-14%20204726.png?raw=true))
+![Tampilan Chatbot](https://github.com/lmStevanus/project-chatbot-studi/blob/main/Screenshot%202025-11-14%20204726.png?raw=true)
 
 ## 💻 Teknologi yang Digunakan
 
